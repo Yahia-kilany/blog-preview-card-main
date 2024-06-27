@@ -22,12 +22,17 @@ Users should be able to:
 
 ### Screenshot
 
+Passive State
+
 ![1719487387474](image/README-template/1719487387474.png)
+
+Active State:
+![1719494581943](image/README/1719494581943.png)
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [ here](https://github.com/Yahia-kilany/blog-preview-card-main)
+- Solution URL: [here](https://github.com/Yahia-kilany/blog-preview-card-main)
+- Live Site URL: [ here](https://yahia-kilany.github.io/blog-preview-card-main/)
 
 ### Built with
 
